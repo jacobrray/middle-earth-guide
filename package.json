@@ -1,0 +1,23 @@
+{
+  "name": "middle-earth-guide",
+  "version": "1.0.0",
+  "description": "An interactive guide to *The Silmarillion*, *The Hobbit* and *The Lord of the Rings*, with notes on the Jackson films and *The Rings of Power*.",
+  "scripts": {
+    "dev": "echo \"Static HTML site - open index.html in browser\"",
+    "build": "echo \"No build needed - static HTML site\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacobrray/middle-earth-guide.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacobrray/middle-earth-guide/issues"
+  },
+  "homepage": "https://github.com/jacobrray/middle-earth-guide#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
