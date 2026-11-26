@@ -4,7 +4,7 @@
   "description": "An interactive guide to *The Silmarillion*, *The Hobbit* and *The Lord of the Rings*, with notes on the Jackson films and *The Rings of Power*.",
   "scripts": {
     "dev": "echo \"Static HTML site - open index.html in browser\"",
-    "build": "echo \"No build needed - static HTML site\""
+    "build": "mkdir -p public && cp index.html public/index.html"
   },
   "repository": {
     "type": "git",
